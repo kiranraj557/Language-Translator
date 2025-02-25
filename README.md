@@ -108,3 +108,7 @@ pip install -r requirements.txt
 
 ## Future Enhancements
 - **Support More Languages**: Add more languages to the translation pipeline.
+
+### Images
+![Language Translation ](screenshot/output screen.png)
+
